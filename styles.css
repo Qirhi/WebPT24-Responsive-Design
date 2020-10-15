@@ -127,7 +127,10 @@ footer {
     nav .hmenu {
         visibility: hidden;
         width: 150px;
-        background-color: rgba(255, 255,255, 0.7);
+        background: url('han.jpg') center no-repeat;
+        
+        background-size: 150px 320px;
+        /* background-color: rgba(255, 255,255, 0.7); */
        /*  height: 400px; */
         /* background-color: black; */
         color: #fff;
@@ -161,7 +164,10 @@ footer {
     nav .hmenuf {
         visibility: hidden;
         width: 150px;
-        background-color: rgba(255, 255,255, 0.7);
+        
+        /* background-color: rgba(255, 255,255, 0.7); */
+        background: url('han.jpg') center no-repeat;
+        background-size: 150px 320px;
        /*  height: 400px; */
         /* background-color: black; */
         color: #fff;
